@@ -13,12 +13,6 @@
   - 🆔 Roll No: `PU02324EUGBTCS008`
   - 🔭 Currently working on **"A Distributed Framework for Mobile-Based Data Collection"**
   - 🌱 Exploring **Flutter**, **Node.js/Express**, **MySQL**, **SQLite**, and **JWT Auth**
-  - 💡 Interests: Distributed Systems · Offline-First Architecture · Mobile Development
-  - 🎵 Vibe: Hindi & Haryanvi music on loop while coding
-  - 🧑‍💻 Editor of choice: **VS Code**
-  - 🧑‍🤝‍🧑 Team: Aditi Nigam · Adeesh Jain · Divyanshu Dave
-  - 👨‍🏫 Guided by: **Dr. Praveen Goyal**
-
   ---
 
   ## 🚀 Current Project
@@ -98,4 +92,3 @@
                                                   </p>
 
                                                   <p align="center">⚡ <i>"Build it offline-first, sync it later."</i> ⚡</p>
-                                                  

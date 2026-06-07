@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhisar</h1>
-<h3 align="center">🎓 BTech CSIT Student | Flutter Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">🎓 BTech CSIT Student| Full-Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Flutter+%7C+Node.js+%7C+MySQL;Building+Distributed+Systems;Open+to+Collaborate!" alt="Typing SVG" />

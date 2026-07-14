@@ -9,9 +9,8 @@
 
   ## 👤 About Me
 
-  - 🎓 **BTech CSIT — IV Semester** at **Symbiosis University of Applied Sciences (SUAS)**
+  - 🎓 **BTech CSIT —  V Semester** at **Symbiosis University of Applied Sciences (SUAS)**
   - 🆔 Roll No: `PU02324EUGBTCS008`
-  - 🔭 Currently working on **"A Distributed Framework for Mobile-Based Data Collection"**
   - 🌱 Exploring **Flutter**, **Node.js/Express**, **MySQL**, **SQLite**, and **JWT Auth**
   ---
 
@@ -55,13 +54,7 @@
                           ## 📚 Academic Highlights
 
                           - 🏫 **University:** Symbiosis University of Applied Sciences, Indore
-                          - 📋 **Skill Project Title:** *A Distributed Framework for Mobile-Based Data Collection*
-                          - 🔑 **Key Academic Focus Areas:**
-                            - Offline-First Sync & Conflict Resolution
-                              - Distributed Systems Architecture
-                                - Android App Development (SharedPreferences, Manifest Config)
-                                  - REST API Design & JWT Security
-
+                    
                                   ---
 
                                   ## 📊 GitHub Stats
